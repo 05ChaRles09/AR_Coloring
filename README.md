@@ -442,3 +442,4 @@ Please contact the author before using project assets, models, textures, or othe
 
 1. https://drive.google.com/file/d/1-lZ1SMx8JoJYXvuxYXrcIFnLS2hI55dV/view?usp=drive_link  (Stable version)
 2. https://drive.google.com/file/d/151DE1s6fAdDLGBEslqNwmxj5WqBvVvc5/view?usp=drive_link  
+Unity Version:6000.0.62f1 Vuforia Version:11.4.4
